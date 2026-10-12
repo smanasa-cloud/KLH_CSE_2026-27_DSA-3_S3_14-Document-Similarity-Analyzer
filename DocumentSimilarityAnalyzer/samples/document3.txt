@@ -1,0 +1,1 @@
+Data science studies patterns in data. Researchers collect examples, clean the data, and make predictions using statistical methods.

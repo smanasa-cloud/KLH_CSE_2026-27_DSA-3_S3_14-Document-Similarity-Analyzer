@@ -1,0 +1,1 @@
+Machine learning helps computers recognize patterns in data and make useful predictions. Researchers test these models on many examples.
